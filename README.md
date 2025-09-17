@@ -5,17 +5,7 @@
 
 ## Screenshots
 
-<div align="center">
-    <iframe
-        src="https://asciinema.org/a/h0bOQzMyvln61QkTe538VjbtO/embed"
-        id="asciicast"
-        name="asciicast"
-        width="800"
-        height="400"
-        frameborder="0"
-        allowfullscreen>
-    </iframe>
-</div>
+[![asciicast](https://asciinema.org/a/h0bOQzMyvln61QkTe538VjbtO.svg)](https://asciinema.org/a/h0bOQzMyvln61QkTe538VjbtO)
 
 ## Installation
 
