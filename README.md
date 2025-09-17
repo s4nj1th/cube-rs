@@ -3,6 +3,20 @@
     <p>ASCII animation of a rotating cube in pure Rust using only standard library functions.</p>
 </div>
 
+## Screenshots
+
+<div align="center">
+    <iframe
+        src="https://asciinema.org/a/h0bOQzMyvln61QkTe538VjbtO/embed"
+        id="asciicast"
+        name="asciicast"
+        width="800"
+        height="400"
+        frameborder="0"
+        allowfullscreen>
+    </iframe>
+</div>
+
 ## Installation
 
 ### Option 1: Download Prebuilt Binary (Recommended)
